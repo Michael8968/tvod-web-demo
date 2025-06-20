@@ -1626,10 +1626,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-tcplayer.js@^5.3.4:
-  version "5.3.4"
-  resolved "https://registry.npmmirror.com/tcplayer.js/-/tcplayer.js-5.3.4.tgz#aef24c42a4647d2b326d25b5ffefc0a6a10e2cba"
-  integrity sha512-9Bv3LZZAHy9YWMhdhGpFMYG8PIVbtSQPmnkr+gXjPTCf2hfKVrW4HonqEpq6Z0yOPT4x0BxTwPHlU+kl12d8jg==
+tcplayer.js@^4.8.0:
+  version "4.9.1"
+  resolved "https://registry.npmmirror.com/tcplayer.js/-/tcplayer.js-4.9.1.tgz#0f2f6d4f683319cea1171c6e5a33c27cda1573b0"
+  integrity sha512-6ZLBpeXp8v9pEIe7AL98bKfefhwWuHKIByrCb9JmEyhDy4Jmc4F311JK7ZDkLgnEVc37D0Hr+d7hmdqVWRrJEg==
   dependencies:
     babel-runtime "^6.9.2"
     blueimp-md5 "^2.10.0"
@@ -1641,7 +1641,7 @@ tcplayer.js@^5.3.4:
     store "^2.0.12"
     store2 "^2.7.1"
     tsml "1.0.1"
-    videojs-font "^3.2.0"
+    videojs-font "2.1.0"
     videojs-ie8 "1.1.2"
     videojs-vtt.js "0.12.4"
     xhr "2.4.0"
@@ -1707,10 +1707,10 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-videojs-font@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.npmmirror.com/videojs-font/-/videojs-font-3.2.0.tgz#212c9d3f4e4ec3fa7345167d64316add35e92232"
-  integrity sha512-g8vHMKK2/JGorSfqAZQUmYYNnXmfec4MLhwtEFS+mMs2IDY398GLysy6BH6K+aS1KMNu/xWZ8Sue/X/mdQPliA==
+videojs-font@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.npmmirror.com/videojs-font/-/videojs-font-2.1.0.tgz#a25930a67f6c9cfbf2bb88dacb8c6b451f093379"
+  integrity sha512-zFqWpLrXf1q8NtYx5qtZhMC6SLUFScDmR6j+UGPogobxR21lvXShhnzcNNMdOxJUuFLiToJ/BPpFUQwX4xhpvA==
 
 videojs-ie8@1.1.2:
   version "1.1.2"

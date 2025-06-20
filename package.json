@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "tcplayer.js": "^5.3.4"
+    "tcplayer.js": "^4.8.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
